@@ -23,9 +23,7 @@ A smart, full-stack chatbot application built using the **MERN stack** (MongoDB,
 
 ---
 
-## 📸 Screenshots
 
-> *(Add your chatbot interface screenshots here)*
 
 ---
 
@@ -70,12 +68,12 @@ npm start
 ```
 chatbot-mern/
 │
-├── client/          # React frontend
+├── frontend/          # React frontend
 │   └── src/
 │       └── components/
 │       └── App.js
 │
-├── server/          # Node.js + Express backend
+├── backend/          # Node.js + Express backend
 │   └── models/
 │   └── routes/
 │   └── server.js
